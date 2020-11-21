@@ -1,4 +1,4 @@
 # ut
 ՈՒՐԱՆՏԻԱՅԻ ԹՂԹԵՐ Fifth Epochal Revelation (Urantia Papers) in Armenian
 
-![Screenshot](images/screenshot.png)
+![Screenshot1](images/screenshot1.png)
